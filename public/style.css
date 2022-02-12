@@ -1,0 +1,31 @@
+table, td {
+    border : 1px solid black;
+    padding: 5px 5px ;
+}
+.conteneur{
+    width : 250px;
+    clear: both;
+}
+.conteneur input{
+    width:250px;
+    clear: both;
+}
+.strong1{
+    color: red;
+}
+.strong2{
+    color: green;
+}
+.supp {
+  border: none; 
+  color: red; 
+  padding: 5px 5px; 
+  font-size: 15px; 
+}
+.edit
+{
+  border: none; 
+  color: green; 
+  padding: 5px 5px; 
+  font-size: 15px; 
+}
